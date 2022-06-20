@@ -102,3 +102,14 @@ hr.light {
   font-family: "Open Sans","Helvetica Neue",Arial,sans-serif;
 }
 
+#mainNav.navbar-shrink .navbar-brand {
+  color: #89DBB4;
+}
+
+@media (min-width: 992px) {
+  #mainNav {
+    border-color: transparent;
+    background-color: transparent;
+  }
+}
+
